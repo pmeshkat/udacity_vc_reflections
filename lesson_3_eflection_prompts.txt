@@ -18,7 +18,8 @@ How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
    not having to learn the versoin control program would be easier, keeping track of changes and merges would be more difficult.
+
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    bug fix, new feature, experimental, etc
